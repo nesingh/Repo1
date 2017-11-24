@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9A38-9623
+
+ Directory of C:\Users\nesingh\Desktop\CICD
+
+11/24/2017  10:42 AM    <DIR>          .
+11/24/2017  10:42 AM    <DIR>          ..
+11/24/2017  10:42 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  47,534,014,464 bytes free
